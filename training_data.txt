@@ -1,0 +1,72 @@
+__label__polish Siedzę na klatce i czekam aż mama skończy rozmawiać przez telefon
+__label__polish co mam w głowie? Niewiele.
+__label__polish Gram na flecie stojąc na taborecie 
+__label__polish uwielbiam zapach pierogów o poranku
+__label__polish W malowniczym ogrodzie, gdzie słońce delikatnie oplata zielenią liści, kolorowe motyle krążą wokół kwiatów, dodając mu magicznego uroku.
+__label__polish Nic mnie tak dawno nie ucieszyło jak zakup nowych długopisów
+__label__polish Aby odwrócić ułamek, musisz zamienić licznik i mianownik miejscami
+__label__polish Oczy nieba odbijają się w czystej wodzie jeziora.
+__label__polish Na skraju lasu stał stary drewniany domek otoczony kolorowymi kwiatami.
+__label__polish Dzisiejszy poranek zaskoczył wszystkich pięknym wschodem słońca nad górami.
+__label__polish W kawiarni na rogu ulicy spotkałem dawno niewidzianego przyjaciela.
+__label__polish Podczas spaceru w parku natknąłem się na tajemniczy stary zegar, który nie wydawał się wskazywać prawidłowej godziny.
+__label__english I'm sitting on the stairs, waiting for my mom to finish talking on the phone.
+__label__german Ich sitze auf der Treppe und warte, bis meine Mutter mit dem Telefonieren fertig ist.
+__label__italian Siedo sulle scale e aspetto che mia madre finisca di parlare al telefono.
+__label__swedish Jag sitter på trappan och väntar tills mamma är klar med att prata i telefon.
+__label__norwegian Jeg sitter på trappen og venter til mamma er ferdig med å prate i telefon.
+__label__english What's on my mind? Not much.
+__label__german Was habe ich im Kopf? Nicht viel.
+__label__italian Cosa ho in mente? Non molto.
+__label__swedish Vad tänker jag på? Inte mycket.
+__label__norwegian Hva har jeg i tankene? Ikke mye.
+__label__english I play the flute while standing on a stool.
+__label__german Ich spiele Querflöte, während ich auf einem Hocker stehe.
+__label__italian Suono il flauto stando su uno sgabello.
+__label__swedish Jag spelar flöjt medan jag står på en pall.
+__label__norwegian Jeg spiller fløyte mens jeg står på en krakk.
+__label__english I love the smell of pierogi in the morning.
+__label__german Ich liebe den Geruch von Pierogi am Morgen.
+__label__italian Adoro l'odore dei pierogi al mattino.
+__label__swedish Jag älskar doften av pierogi på morgonen.
+__label__norwegian Jeg elsker lukten av pierogi om morgenen.
+__label__english In a picturesque garden, where the sun gently bathes the leaves in green, colorful butterflies flutter around the flowers, adding a magical charm to it.
+__label__german In einem malerischen Garten, wo die Sonne die Blätter sanft in Grün taucht, flattern bunte Schmetterlinge um die Blumen und verleihen ihm einen zauberhaften Charme.
+__label__italian In un pittoresco giardino, dove il sole avvolge delicatamente le foglie di verde, farfalle colorate volteggiano intorno ai fiori, aggiungendo un fascino magico.
+__label__swedish I en pittoresk trädgård där solen mjukt badar bladen i grönt, fladdrar färgglada fjärilar runt blommorna och ger den en magisk charm.
+__label__norwegian I en pittoresk hage, der solen forsiktig bader bladene i grønt, svirrer fargerike sommerfugler rundt blomstene og gir den en magisk sjarm.
+__label__english Nothing has made me as happy in a long time as buying new pens.
+__label__german Nichts hat mich seit langem so glücklich gemacht wie der Kauf neuer Stifte.
+__label__italian Nulla mi ha reso felice da tanto tempo quanto l'acquisto di nuove penne.
+__label__swedish Ingenting har gjort mig så lycklig på länge som att köpa nya pennor.
+__label__norwegian Ingenting har gjort meg så lykkelig på lenge som å kjøpe nye penner.
+__label__english To invert a fraction, you need to swap the numerator and denominator.
+__label__german Um einen Bruch umzukehren, musst du Zähler und Nenner vertauschen.
+__label__italian Per invertire una frazione, devi scambiare numeratore e denominatore.
+__label__swedish För att vända på en bråkdel måste du byta plats på täljaren och nämnaren.
+__label__norwegian For å invertere en brøk må du bytte om teller og nevner.
+__label__english The eyes of the sky reflect in the clear water of the lake.
+__label__german Die Augen des Himmels spiegeln sich im klaren Wasser des Sees.
+__label__italian Gli occhi del cielo si riflettono nell'acqua cristallina del lago.
+__label__swedish Himmelens ögon speglas i den klara vattnet av sjön.
+__label__norwegian Himmelens øyne reflekteres i det klare vannet i sjøen.
+__label__english At the edge of the forest stood an old wooden cottage surrounded by colorful flowers.
+__label__german Am Rande des Waldes stand eine alte Holzhütte, umgeben von bunten Blumen.
+__label__italian Ai margini del bosco c'era una vecchia casetta di legno circondata da fiori colorati.
+__label__swedish Vid skogens kant stod en gammal trästuga omgiven av färgglada blommor.
+__label__norwegian På kanten av skogen sto en gammel trehytte omgitt av fargerike blomster.
+__label__english Today's morning surprised everyone with a beautiful sunrise over the mountains.
+__label__german Der heutige Morgen überraschte alle mit einem wunderschönen Sonnenaufgang über den Bergen.
+__label__italian La mattina di oggi ha sorpreso tutti con un bellissimo alba sulle montagne.
+__label__swedish Morgonen idag överraskade alla med en vacker soluppgång över bergen.
+__label__norwegian Dagens morgen overrasket alle med en vakker soloppgang over fjellene.
+__label__english In a café at the street corner, I met a long-unseen friend.
+__label__german In einem Café an der Straßenecke traf ich einen lange nicht gesehenen Freund.
+__label__italian In un café all'angolo della strada, ho incontrato un amico non visto da tempo.
+__label__swedish På ett café på gathörnet träffade jag en länge osedd vän.
+__label__norwegian På et kafé på gatehjørnet møtte jeg en lenge usett venn.
+__label__english During a walk in the park, I came across a mysterious old clock that didn't seem to indicate the correct time.
+__label__german Während eines Spaziergangs im Park stieß ich auf eine mysteriöse alte Uhr, die nicht die richtige Zeit anzuzeigen schien.
+__label__italian Durante una passeggiata nel parco, mi sono imbattuto in un misterioso vecchio orologio che non sembrava indicare l'orario corretto.
+__label__swedish Under en promenad i parken stötte jag på en mystisk gammal klocka som inte verkade visa rätt tid.
+__label__norwegian Under en spasertur i parken kom jeg over en mystisk gammel klokke som ikke syntes å vise riktig tid.
